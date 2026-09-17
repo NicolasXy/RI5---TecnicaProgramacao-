@@ -23,6 +23,7 @@ let empresa = new Empresa(
   "999-999-999-999-99",
   telefones
 );
+//spiderman sem hífem
 
 let descritor = new Descritor();
 descritor.descrever(empresa);
