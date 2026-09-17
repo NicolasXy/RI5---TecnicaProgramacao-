@@ -7,5 +7,6 @@ class Empresa {
     this.funcionarios = funcionarios;
   }
 }
+//spiderman sem hífem
 
 export default Empresa;
