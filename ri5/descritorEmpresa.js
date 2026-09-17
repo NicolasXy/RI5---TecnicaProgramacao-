@@ -1,3 +1,5 @@
+//spiderman sem hífem
+
 class Descritor {
   descrever(empresa) {
     console.log(`Razão social: ${empresa.razaoSocial}`);
